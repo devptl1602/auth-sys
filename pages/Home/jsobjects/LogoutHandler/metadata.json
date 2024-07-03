@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "LogoutHandler",
+    "pageId": "Home",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Home_LogoutHandler",
+  "deleted": false,
+  "gitSyncId": "6683669d065f7c5025f05f98_ce580b56-631e-4ca2-ac2b-e3872b540882"
+}
